@@ -1,0 +1,38 @@
+{
+	"name": "j-react-password",
+	"version": "0.1.0",
+	"description": "The password component basic on reactjs. You can install at npmjs.",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chuanjing/j-react-password.git"
+	},
+	"keywords": [
+		"reactjs",
+		"react",
+		"react.js",
+		"password",
+		"react-component",
+		"h5",
+		"html",
+		"css",
+		"mobile",
+		"pay",
+		"identifying code",
+		"code",
+		"密码组件",
+		"密码",
+		"验证码",
+		"验证码组件",
+		"支付"
+	],
+	"author": "LiChuanjing",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/chuanjing/j-react-password/issues"
+	},
+	"homepage": "https://github.com/chuanjing/j-react-password#readme"
+}
